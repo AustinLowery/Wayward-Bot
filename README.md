@@ -4,7 +4,7 @@ Reads and writes input from users of the Wayward SMP discord server.
 <b>Using The Bot</b>
 <br></br>
 Use `$help <command name>` to get an example of how commands are used.
-To get started, run `$create` to create a character. Once you fill out the information, run `$usercreate` to fill out info on yourself. Once you have that set up, bump up your character with `$bump <character>` whenever you can to ensure new people see your character at the top of the list! Please make sure the information is up to date before bumping. Use `$update` for updating characters, and `$userupdate` for updating yourself.
+To get started, run `$create` to create a character. Once you fill out the information, run `$usercreate` to fill out info on yourself. Once you have that set up, bump up your character with `$bump <character>` whenever you can to ensure new people see your character at the top of the list! Please make sure the information is up to date before bumping. Use `$update` for updating characters, and `$userupdate` for updating yourself.<br></br>
 Character Sheet: https://docs.google.com/spreadsheets/d/11pn9SvdBwI9Xy_EMglPViWci7tRp6k2gxfS7_f0p6x8/edit?usp=sharing
 <br></br>
 <b>Commands List</b>
